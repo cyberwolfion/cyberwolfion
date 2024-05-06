@@ -10,8 +10,7 @@ Thank you for dropping by! Feel free to explore my projects, leave feedback, or 
 
 🛠️ I'm a tech enthusiast on a journey of transformation, aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-🔐 Security is my passion: I'm pursuing the Security+ certification and eager to delve into network security and IT support to fortify    
-    the digital world against cyber threats.
+🔐 Security is my passion: I'm pursuing the Security+ certification and eager to delve into network security and IT support to fortify the digital world against cyber threats.
 
 ## Connect with Me
 
