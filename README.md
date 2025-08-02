@@ -6,14 +6,31 @@ Thank you for dropping by! Feel free to explore my projects, leave feedback, or 
 
 ## About Me
 
-👋 Hi there! I'm Giovanni, currently finishing up Springboard's Cybersecurity Career Track program with a passion for technology.
+I’m Giovanni Lima, a tech enthusiast and Security+ certified professional with a growing foundation in IT and cybersecurity.  
+With hands-on experience in system support and repair, I’m currently sharpening my skills through an **apprenticeship program** at **Riverside City College**, pursuing a **Certificate of Achievement in Information Security and Cyber Defense**.
 
-🛠️ I'm a tech enthusiast on a journey of transformation, aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+This program equips me with real-world skills in:
+- Cisco networking and switch/router configuration  
+- Windows and Linux system hardening  
+- Firewalls, IDS/IPS, and secure network design  
+- Security policies, risk management, and incident response  
+- Cryptography, ICS security, and disaster recovery practices
 
-🔐 Security is my passion: I'm pursuing the Security+ certification and eager to delve into network security and IT support to fortify the digital world against cyber threats.
+My goal is to support and secure IT infrastructure while continuing to grow toward blue-team roles such as SOC Analyst or SysAdmin.
+
+## What I’m Looking For
+
+🔍 I’m currently seeking entry-level roles in:
+- IT Support / Help Desk  
+- IT Administration / SysAdmin  
+- SOC Analyst (Tier 1)
+
+## Certifications & Education
+
+✅ CompTIA Security+ (SY0-701)  
+📘 Information Security & Cyber Defense Certificate (In Progress) – RCC Apprenticeship Program  
 
 ## Connect with Me
-
 📫 Feel free to connect with me!    
 <a href="https://www.linkedin.com/in/geobarbosalima/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -60,11 +77,18 @@ Thank you for dropping by! Feel free to explore my projects, leave feedback, or 
 ## Certifications
 <!--[Provide certifications I have obtained. Use ChatGPT to help create the link - Remove this afterwards]-->
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/59571162-34ff-4adf-b9d7-8e1040a5c0c0/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" title="Earned: May 2025" />
+  </a>
+</div>
+
+## In Progress
+
+<div>
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+ Badge" title="In Progress" />
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="A+ Badge" title="In Progress" />
+  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" alt="CDSA Badge" title="In Progress (Riverside Apprenticeship)" />
+  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" alt="CCD Badge" title="In Progress (Riverside Apprenticeship)" />
 </div>
 
 ## Projects
